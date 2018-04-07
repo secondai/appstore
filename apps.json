@@ -1,4 +1,8 @@
 [{
-  "name":"Notes",
-  "repo":"https://github.com/secondai/app_notes"
+  "type": "appstore_github:Qmsdfjl",
+  "data": {
+    "name":"Notes",
+    "repo":"https://github.com/secondai/app_notes",
+    "appId":"0f52e5ba-96ac-4bea-b575-e3be050af37b"
+  }
 }]
