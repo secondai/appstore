@@ -1,5 +1,5 @@
 [{
-  "type": "appstore_github:Qmsdfjl",
+  "type": "appstore_entry_github:Qmsdfjl",
   "data": {
     "name":"Notes",
     "repo":"https://github.com/secondai/app_notes",
