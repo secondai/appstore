@@ -5,4 +5,11 @@
     "repo":"secondai/app_notes",
     "appId":"0f52e5ba-96ac-4bea-b575-e3be050af37b"
   }
+},{
+  "type": "appstore_entry_github:Qmsdfjl",
+  "data": {
+    "name":"App Store Browser",
+    "repo":"secondai/app_appstore",
+    "appId":"ba44345d-e5f9-4039-9e89-5be77a6c1e34"
+  }
 }]
