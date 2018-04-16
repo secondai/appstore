@@ -10,7 +10,7 @@
   "data": {
     "name":"App Store Browser",
     "repo":"secondai/app_appstore",
-    "appId":"ba44345d-e5f9-4039-9e89-5be77a6c1e34"
+    "appId":"appstore"
   }
 },{
   "type": "appstore_entry_github:Qmsdfjl",
