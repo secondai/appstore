@@ -19,4 +19,11 @@
     "repo":"secondai/app_social",
     "appId":"social"
   }
+},{
+  "type": "appstore_entry_github:Qmsdfjl",
+  "data": {
+    "name":"Chat",
+    "repo":"secondai/app_chat",
+    "appId":"chat"
+  }
 }]
