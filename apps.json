@@ -26,4 +26,11 @@
     "repo":"secondai/app_chat",
     "appId":"chat"
   }
+},{
+  "type": "appstore_entry_github:Qmsdfjl",
+  "data": {
+    "name":"Cloud Launcher",
+    "repo":"secondai/app_cloudlaunch",
+    "appId":"cloudlaunch"
+  }
 }]
