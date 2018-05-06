@@ -33,4 +33,11 @@
     "repo":"secondai/app_cloudlaunch",
     "appId":"cloudlaunch"
   }
+},{
+  "type": "appstore_entry_github:Qmsdfjl",
+  "data": {
+    "name":"Finder",
+    "repo":"secondai/app_finder",
+    "appId":"finder"
+  }
 }]
