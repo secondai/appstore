@@ -47,4 +47,11 @@
     "repo":"secondai/app_finder",
     "appId":"finder"
   }
+},{
+  "type": "appstore_entry_github:Qmsdfjl",
+  "data": {
+    "name":"Raspberry Pi Base",
+    "repo":"secondai/app_rpi_default",
+    "appId":"app_rpi_default"
+  }
 }]
